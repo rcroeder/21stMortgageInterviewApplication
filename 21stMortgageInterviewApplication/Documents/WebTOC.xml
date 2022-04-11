@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9fb156e7-a68f-43f6-b6fa-3b58c56af48f" Title="_21stMortgageInterviewApplication Namespace" Url="html/N-_21stMortgageInterviewApplication.htm">
+    <HelpTOCNode Title="App Class" Url="html/T-_21stMortgageInterviewApplication.App.htm" />
+    <HelpTOCNode Id="871e40ba-4659-4cd7-a70b-d84005d2b255" Title="MainWindow Class" Url="html/T-_21stMortgageInterviewApplication.MainWindow.htm">
+      <HelpTOCNode Title="MainWindow Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.MainWindow.htm" />
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/M-_21stMortgageInterviewApplication.MainWindow.-ctor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a6a7530-803f-44cf-92e4-562e687b2f3b" Title="RelayCommand Class" Url="html/T-_21stMortgageInterviewApplication.RelayCommand.htm">
+      <HelpTOCNode Title="RelayCommand Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+      <HelpTOCNode Title="RelayCommand Constructor " Url="html/M-_21stMortgageInterviewApplication.RelayCommand.-ctor.htm" />
+      <HelpTOCNode Id="9b97dd8d-ac35-41c7-a04f-22779bf4df77" Title="RelayCommand Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.RelayCommand.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/M-_21stMortgageInterviewApplication.RelayCommand.CanExecute.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/M-_21stMortgageInterviewApplication.RelayCommand.Execute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ca327cd4-68f1-4055-acb4-fa260812e035" Title="RelayCommand Events" Url="html/Events.T-_21stMortgageInterviewApplication.RelayCommand.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/E-_21stMortgageInterviewApplication.RelayCommand.CanExecuteChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1e7a8ac5-07d5-41f3-889f-3f1b430e2e5d" Title="_21stMortgageInterviewApplication.Commands Namespace" Url="html/N-_21stMortgageInterviewApplication.Commands.htm">
+    <HelpTOCNode Id="ea65ad35-ef94-4f4c-ab95-38d6cf29ca36" Title="CommandBase Class" Url="html/T-_21stMortgageInterviewApplication.Commands.CommandBase.htm">
+      <HelpTOCNode Title="CommandBase Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+      <HelpTOCNode Id="1d6058f6-b913-4f8d-821f-325ec4267782" Title="CommandBase Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecute.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.Execute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba9c2c0b-4b61-47b8-872f-1c8ea4de9f61" Title="CommandBase Events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/E-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecuteChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="53964d76-d67e-4157-8879-b2d881181119" Title="FindLargestValueCommand Class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm">
+      <HelpTOCNode Title="FindLargestValueCommand Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+      <HelpTOCNode Title="FindLargestValueCommand Constructor " Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.-ctor.htm" />
+      <HelpTOCNode Id="13ab89b4-c016-4b8c-ad06-c57ea726cf32" Title="FindLargestValueCommand Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm">
+        <HelpTOCNode Title="Execute Method " Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.Execute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FindLargestValueCommand Events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="539cae6e-2168-43e7-a784-efc1be29e74e" Title="FindSumEvenNumbersCommand Class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm">
+      <HelpTOCNode Title="FindSumEvenNumbersCommand Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+      <HelpTOCNode Title="FindSumEvenNumbersCommand Constructor " Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.-ctor.htm" />
+      <HelpTOCNode Id="8db61505-d9ad-49ae-9908-f78cf3290a94" Title="FindSumEvenNumbersCommand Fields" Url="html/Fields.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm">
+        <HelpTOCNode Title="ViewModel Field" Url="html/F-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.ViewModel.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="28ce0972-5f3e-4593-a367-759df1ee442a" Title="FindSumEvenNumbersCommand Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm">
+        <HelpTOCNode Title="Execute Method " Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.Execute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FindSumEvenNumbersCommand Events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="11c76b68-5df2-4bd2-8ed3-f1176d1b58a9" Title="FindSumOfOddNumbersCommand Class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm">
+      <HelpTOCNode Title="FindSumOfOddNumbersCommand Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+      <HelpTOCNode Title="FindSumOfOddNumbersCommand Constructor " Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.-ctor.htm" />
+      <HelpTOCNode Id="c6eb31ba-dcef-49c4-9f7f-966587dd4773" Title="FindSumOfOddNumbersCommand Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm">
+        <HelpTOCNode Title="Execute Method " Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.Execute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FindSumOfOddNumbersCommand Events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="298a2a01-52b8-4cd4-acb6-2568b3abf877" Title="_21stMortgageInterviewApplication.ViewModels Namespace" Url="html/N-_21stMortgageInterviewApplication.ViewModels.htm">
+    <HelpTOCNode Id="3b3e17ae-c3b6-48c3-8163-40492a8a0d35" Title="ViewModelBase Class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm">
+      <HelpTOCNode Title="ViewModelBase Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+      <HelpTOCNode Id="04df848f-fa6e-4af0-8659-73415ada93cc" Title="ViewModelBase Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/M-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.Dispose.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c39f983a-bec5-4015-83bc-88377add723b" Title="ViewModelBase Events" Url="html/Events.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/E-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.PropertyChanged.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f8d23462-55fc-43ad-8404-5421f4519219" Title="WPFTestViewModel Class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm">
+      <HelpTOCNode Title="WPFTestViewModel Members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+      <HelpTOCNode Title="WPFTestViewModel Methods" Url="html/Methods.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+      <HelpTOCNode Id="4fd6e787-4883-4f9f-aca7-4fea92be0e30" Title="WPFTestViewModel Properties" Url="html/Properties.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm">
+        <HelpTOCNode Title="FindLargestValueCommand Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindLargestValueCommand.htm" />
+        <HelpTOCNode Title="FindSumEvenNumbersCommand Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumEvenNumbersCommand.htm" />
+        <HelpTOCNode Title="FindSumOfOddNumbersCommand Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumOfOddNumbersCommand.htm" />
+        <HelpTOCNode Title="GetInstance Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.GetInstance.htm" />
+        <HelpTOCNode Title="Results Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.Results.htm" />
+        <HelpTOCNode Title="UserInput Property " Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.UserInput.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="WPFTestViewModel Events" Url="html/Events.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

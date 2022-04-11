@@ -1,0 +1,92 @@
+﻿<Window
+    x:Class="_21stMortgageInterviewApplication.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:_21stMortgageInterviewApplication"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="WPF Test - RC Roeder"
+    Width="600"
+    Height="200"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label
+                    Width="250"
+                    Margin="5"
+                    VerticalAlignment="Center"
+                    Content="User Input" />
+                <Border
+                    Margin="5"
+                    BorderBrush="Black"
+                    BorderThickness="1">
+                    <TextBox
+                        Width="300"
+                        Margin="5"
+                        VerticalAlignment="Center"
+                        Text="{Binding UserInput, Mode=OneWay}" />
+                </Border>
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button
+                    Width="185"
+                    Margin="5"
+                    Command="{Binding Path=FindLargestValueCommand}"
+                    Content="Find Largest Value">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5" />
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button
+                    Width="185"
+                    Margin="5"
+                    Command="{Binding Path=FindSumOfOddNumbersCommand}"
+                    Content="Find Sum of Odd Numbers">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5" />
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+                <Button
+                    Width="186"
+                    Margin="5"
+                    Command="{Binding Path=FindSumEvenNumbersCommand}"
+                    Content="Find Sum of even Numbers">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5" />
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label
+                    Width="250"
+                    Margin="5"
+                    VerticalAlignment="Center"
+                    Content="Result" />
+                <Border
+                    Margin="5"
+                    BorderBrush="Black"
+                    BorderThickness="1">
+                    <TextBlock
+                        Width="300"
+                        Margin="5"
+                        VerticalAlignment="Center"
+                        Text="{Binding Results, Mode=TwoWay}" />
+                </Border>
+
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

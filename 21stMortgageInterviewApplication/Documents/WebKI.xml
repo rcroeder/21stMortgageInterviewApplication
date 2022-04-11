@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="App class" Url="html/T-_21stMortgageInterviewApplication.App.htm" />
+  <HelpKINode Title="App class">
+    <HelpKINode Title="about App class" Url="html/T-_21stMortgageInterviewApplication.App.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanExecute method" Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecute.htm" />
+  <HelpKINode Title="CanExecute method" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.CanExecute.htm" />
+  <HelpKINode Title="CanExecuteChanged event" Url="html/E-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecuteChanged.htm" />
+  <HelpKINode Title="CanExecuteChanged event" Url="html/E-_21stMortgageInterviewApplication.RelayCommand.CanExecuteChanged.htm" />
+  <HelpKINode Title="CommandBase class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+  <HelpKINode Title="CommandBase class" Url="html/T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+  <HelpKINode Title="CommandBase class">
+    <HelpKINode Title="about CommandBase class" Url="html/T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandBase.CanExecute method" Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecute.htm" />
+  <HelpKINode Title="CommandBase.CanExecuteChanged event" Url="html/E-_21stMortgageInterviewApplication.Commands.CommandBase.CanExecuteChanged.htm" />
+  <HelpKINode Title="CommandBase.Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.Execute.htm" />
+  <HelpKINode Title="Dispose method" Url="html/M-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.Dispose.htm" />
+  <HelpKINode Title="Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.CommandBase.Execute.htm" />
+  <HelpKINode Title="Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.Execute.htm" />
+  <HelpKINode Title="Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.Execute.htm" />
+  <HelpKINode Title="Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.Execute.htm" />
+  <HelpKINode Title="Execute method" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.Execute.htm" />
+  <HelpKINode Title="FindLargestValueCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+  <HelpKINode Title="FindLargestValueCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+  <HelpKINode Title="FindLargestValueCommand class">
+    <HelpKINode Title="about FindLargestValueCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindLargestValueCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindLargestValueCommand.htm" />
+  <HelpKINode Title="FindLargestValueCommand.Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.Execute.htm" />
+  <HelpKINode Title="FindLargestValueCommand.FindLargestValueCommand constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.-ctor.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand class">
+    <HelpKINode Title="about FindSumEvenNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindSumEvenNumbersCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand.Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.Execute.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand.FindSumEvenNumbersCommand constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.-ctor.htm" />
+  <HelpKINode Title="FindSumEvenNumbersCommand.ViewModel field" Url="html/F-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.ViewModel.htm" />
+  <HelpKINode Title="FindSumOfOddNumbersCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="FindSumOfOddNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="FindSumOfOddNumbersCommand class">
+    <HelpKINode Title="about FindSumOfOddNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindSumOfOddNumbersCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="FindSumOfOddNumbersCommand.Execute method" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.Execute.htm" />
+  <HelpKINode Title="FindSumOfOddNumbersCommand.FindSumOfOddNumbersCommand constructor" Url="html/M-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.-ctor.htm" />
+  <HelpKINode Title="GetInstance property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.GetInstance.htm" />
+  <HelpKINode Title="MainWindow class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.MainWindow.htm" />
+  <HelpKINode Title="MainWindow class" Url="html/T-_21stMortgageInterviewApplication.MainWindow.htm" />
+  <HelpKINode Title="MainWindow class">
+    <HelpKINode Title="about MainWindow class" Url="html/T-_21stMortgageInterviewApplication.MainWindow.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.MainWindow.htm" />
+    <HelpKINode Title="constructor" Url="html/M-_21stMortgageInterviewApplication.MainWindow.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainWindow.MainWindow constructor" Url="html/M-_21stMortgageInterviewApplication.MainWindow.-ctor.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/E-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.PropertyChanged.htm" />
+  <HelpKINode Title="RelayCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+  <HelpKINode Title="RelayCommand class" Url="html/T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+  <HelpKINode Title="RelayCommand class">
+    <HelpKINode Title="about RelayCommand class" Url="html/T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.-ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RelayCommand.CanExecute method" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.CanExecute.htm" />
+  <HelpKINode Title="RelayCommand.CanExecuteChanged event" Url="html/E-_21stMortgageInterviewApplication.RelayCommand.CanExecuteChanged.htm" />
+  <HelpKINode Title="RelayCommand.Execute method" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.Execute.htm" />
+  <HelpKINode Title="RelayCommand.RelayCommand constructor" Url="html/M-_21stMortgageInterviewApplication.RelayCommand.-ctor.htm" />
+  <HelpKINode Title="Results property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.Results.htm" />
+  <HelpKINode Title="UserInput property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.UserInput.htm" />
+  <HelpKINode Title="ViewModel field" Url="html/F-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.ViewModel.htm" />
+  <HelpKINode Title="ViewModelBase class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+  <HelpKINode Title="ViewModelBase class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+  <HelpKINode Title="ViewModelBase class">
+    <HelpKINode Title="about ViewModelBase class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewModelBase.Dispose method" Url="html/M-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.Dispose.htm" />
+  <HelpKINode Title="ViewModelBase.PropertyChanged event" Url="html/E-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.PropertyChanged.htm" />
+  <HelpKINode Title="WPFTestViewModel class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+  <HelpKINode Title="WPFTestViewModel class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+  <HelpKINode Title="WPFTestViewModel class">
+    <HelpKINode Title="about WPFTestViewModel class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WPFTestViewModel.FindLargestValueCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindLargestValueCommand.htm" />
+  <HelpKINode Title="WPFTestViewModel.FindSumEvenNumbersCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="WPFTestViewModel.FindSumOfOddNumbersCommand property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="WPFTestViewModel.GetInstance property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.GetInstance.htm" />
+  <HelpKINode Title="WPFTestViewModel.Results property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.Results.htm" />
+  <HelpKINode Title="WPFTestViewModel.UserInput property" Url="html/P-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.UserInput.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication namespace" Url="html/N-_21stMortgageInterviewApplication.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.App class" Url="html/T-_21stMortgageInterviewApplication.App.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands namespace" Url="html/N-_21stMortgageInterviewApplication.Commands.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.CommandBase class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.CommandBase class" Url="html/T-_21stMortgageInterviewApplication.Commands.CommandBase.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindLargestValueCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindLargestValueCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand class" Url="html/T-_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.MainWindow class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.MainWindow.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.MainWindow class" Url="html/T-_21stMortgageInterviewApplication.MainWindow.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.RelayCommand class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.RelayCommand class" Url="html/T-_21stMortgageInterviewApplication.RelayCommand.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.ViewModels namespace" Url="html/N-_21stMortgageInterviewApplication.ViewModels.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.ViewModels.ViewModelBase class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.ViewModels.ViewModelBase class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.ViewModelBase.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel class" Url="html/AllMembers.T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+  <HelpKINode Title="_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel class" Url="html/T-_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.htm" />
+</HelpKI>

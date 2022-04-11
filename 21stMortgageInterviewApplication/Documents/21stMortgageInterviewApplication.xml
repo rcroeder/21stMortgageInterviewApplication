@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>21stMortgageInterviewApplication</name>
+  </assembly>
+  <members>
+    <member name="T:_21stMortgageInterviewApplication.Commands.CommandBase">
+      <summary>
+   Class CommandBase.
+   Implements the <see cref="System.Windows.Input.ICommand" /></summary>
+      <seealso cref="System.Windows.Input.ICommand" />
+    </member>
+    <member name="E:_21stMortgageInterviewApplication.Commands.CommandBase.CanExecuteChanged">
+      <summary>
+   Occurs when changes occur that affect whether or not the command should execute.
+   </summary>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.CommandBase.CanExecute(System.Object)">
+      <summary>
+   Defines the method that determines whether the command can execute in its current state.
+   </summary>
+      <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to <see langword="null" />.</param>
+      <returns>
+        <see langword="true" /> if this command can be executed; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.CommandBase.Execute(System.Object)">
+      <summary>
+   Defines the method to be called when the command is invoked.
+   </summary>
+      <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to <see langword="null" />.</param>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.ViewModels.ViewModelBase">
+      <summary>
+   Class ViewModel.
+   Implements the <see cref="System.ComponentModel.INotifyPropertyChanged" /></summary>
+      <seealso cref="System.ComponentModel.INotifyPropertyChanged" />
+    </member>
+    <member name="E:_21stMortgageInterviewApplication.ViewModels.ViewModelBase.PropertyChanged">
+      <summary>
+   Occurs when [property changed].
+   </summary>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.ViewModels.ViewModelBase.Dispose">
+      <summary>
+   Disposes this instance.
+   </summary>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel">
+      <summary>
+   Class WPFTestViewModel.
+   Implements the <see cref="T:_21stMortgageInterviewApplication.ViewModels.ViewModelBase" /></summary>
+      <seealso cref="T:_21stMortgageInterviewApplication.ViewModels.ViewModelBase" />
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumEvenNumbersCommand">
+      <summary>
+   Gets or sets the find sum even numbers command.
+   </summary>
+      <value>The find sum even numbers command.</value>
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindSumOfOddNumbersCommand">
+      <summary>
+   Gets or sets the find sum of odd numbers command.
+   </summary>
+      <value>The find sum of odd numbers command.</value>
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.FindLargestValueCommand">
+      <summary>
+   Gets or sets the find largest value command.
+   </summary>
+      <value>The find largest value command.</value>
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.GetInstance">
+      <summary>
+   Gets the get instance.
+   </summary>
+      <value>The get instance.</value>
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.UserInput">
+      <summary>
+   Gets or sets the user input.
+   </summary>
+      <value>The user input.</value>
+    </member>
+    <member name="P:_21stMortgageInterviewApplication.ViewModels.WPFTestViewModel.Results">
+      <summary>
+   Gets or sets the results.
+   </summary>
+      <value>The results.</value>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.App">
+      <summary>
+   Interaction logic for App.xaml
+   </summary>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.MainWindow">
+      <summary>
+   Interaction logic for MainWindow.xaml
+   </summary>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.Commands.FindLargestValueCommand">
+      <summary>
+   Class FindLargestValueCommand.
+   Implements the <see cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" /></summary>
+      <seealso cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" />
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.#ctor(WPFTestViewModel)">
+      <summary>
+   Initializes a new instance of the <see cref="T:_21stMortgageInterviewApplication.Commands.FindLargestValueCommand" /> class.
+   </summary>
+      <param name="_viewModel">The view model.</param>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindLargestValueCommand.Execute(System.Object)">
+      <summary>
+   Defines the method to be called when the command is invoked.
+   </summary>
+      <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to <see langword="null" />.</param>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand">
+      <summary>
+   Class FindSumOfOddNumbersCommand.
+   Implements the <see cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" /></summary>
+      <seealso cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" />
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.#ctor(WPFTestViewModel)">
+      <summary>
+   Initializes a new instance of the <see cref="T:_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand" /> class.
+   </summary>
+      <param name="_ViewModel">The view model.</param>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindSumOfOddNumbersCommand.Execute(System.Object)">
+      <summary>
+   Defines the method to be called when the command is invoked.
+   </summary>
+      <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to <see langword="null" />.</param>
+    </member>
+    <member name="T:_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand">
+      <summary>
+   Class FindSumEvenNumbersCommand.
+   Implements the <see cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" /></summary>
+      <seealso cref="T:_21stMortgageInterviewApplication.Commands.CommandBase" />
+    </member>
+    <member name="F:_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.ViewModel">
+      <summary>
+   The view model
+   </summary>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.#ctor(WPFTestViewModel)">
+      <summary>
+   Initializes a new instance of the <see cref="T:_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand" /> class.
+   </summary>
+      <param name="_viewModel">The view model.</param>
+    </member>
+    <member name="M:_21stMortgageInterviewApplication.Commands.FindSumEvenNumbersCommand.Execute(System.Object)">
+      <summary>
+   Defines the method to be called when the command is invoked.
+   </summary>
+      <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to <see langword="null" />.</param>
+      <exception cref="System.NotImplementedException">
+      </exception>
+    </member>
+  </members>
+</doc>
